@@ -1,0 +1,49 @@
+Thousands of years of human knowledge has been learned and surpassed by the world’s smartest computer in just 40 days, a breakthrough hailed as one of the greatest  advances ever in artificial intelligence.
+
+Google DeepMind amazed the world last year when its AI programme AlphaGo beat world champion Lee Sedol at Go, an ancient and complex game of strategy and intuition which many believed could never be cracked by a machine.
+
+AlphaGo was so effective because it had been programmed with millions of moves of past masters, and could predict its own chances of winning, adjusting its game-plan accordingly.
+
+But now the same team has created a machine that learns from scratch.
+
+AlphaGo Zero was taught how to play Go, but given no additional instructions. Instead it learned the best moves over time, simply by playing millions of games against itself.
+
+In just three days it had defeated all versions of AlphaGo, and within 40 days it had independently found game principles that had taken humans thousands of years to discover.
+
+It also developed intriguing new strategies of its own and had "genuine moments of creativity".
+
+DeepMind co-founder and CEO Demis Hassabis said the programme was so powerful because it was "no longer constrained by the limits of human knowledge".
+
+He believes that if applied to big health problems, such as defeating Alzhiemer’s, it could, in a matter of weeks, come up with cures that would have taken humans hundreds of years to find.
+
+“Ultimately we want to harness algorithmic breakthroughs like this to help solve all sorts of pressing real world problems,” said Hassabis.
+
+“If similar techniques can be applied to other structured problems, such as protein folding, reducing energy consumption or searching for revolutionary new materials, the resulting breakthroughs have the potential to drive forward human understanding and positively impact all of our lives.”
+
+DeepMind has already begun using AlphaGo Zero to study protein folding and has promised it will soon publish new findings. Misfolded proteins are responsible for many devastating diseases, including Alzheimer’s, Parkinson’s and cystic fibrosis.
+
+Technology companies are increasingly moving into health. Last year Microsoft announced it planned to crack cancer within 10 years after launching several projects to "hack" the body.
+
+Google’s secretive arm Calico, is also investigating ways to extend human life and even stop ageing altogether.
+
+Crucially, Alpha Go Zero uses "tabula rasa" or blank slate learning , in which the programme becomes its own teacher, playing games against itself and improving a little each time. It needs no human knowledge, data or any intervention.
+
+Dr Dave Silver, lead researcher for AlphaGo said: “If you can achieve tabula rasa learning you really have an agent which can be transplanted from the game of Go to any other domain. You untie yourself from the specifics of the domain you are in to an algorithm which is so general it can be applied anywhere.
+
+“For us AlphaGo is not about going out to  defeat humans but to discover what it means to do science and for a programme to be able to learn for itself what knowledge is.
+
+“In a short space of time Alpha Go Zero has understood all of the Go knowledge that has been accumulated by humans over thousands of year of play and it’s analysed it and sometimes its chosen to go beyond that and develop new pieces of knowledge which were creative and novel.”
+
+Roger Huyshe, president of the British Go Association, said: "AlphaGo wasn't only a big moment for the Go community it was a big leap forward for AI.
+
+"If the new program has learned from scratch it will definitely be interesting to see its new ideas. AlphaGo already operated in quite a different way from a human player, so there will be keen interest in what it has now achieved."
+
+Details of the programme were published in the journal Nature.
+
+Prof Satinder Singh, a computer scientist at Michigan University, who reviewed the findings for the journal said: “The AI massively outperforms the already superhuman AlphaGo and, in my view, is one of the biggest advances, in terms of applications, for the field of reinforcement learning so far.”
+
+Andy Okun, president of the  American Go Association, said that the time had come where humans and computers could have meaningful interactions.
+
+“Go players, coming from so many nations, speak to each other with their moves, even when they do not share an ordinary language,” he said.
+
+“The time when humans can have a meaningful conversation with an AI has always seemed far off and the stuff of science fiction. But for Go players, that day is here.”

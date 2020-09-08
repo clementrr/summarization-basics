@@ -1,0 +1,13 @@
+Once Alphabet’s artificial intelligence company DeepMind had masted the ability to defeat the best human Go players in the world, it tried to beat its own best attempts using an approach based strictly on a virtual Go player that was totally self-taught.
+
+That Go-playing virtual intelligence was called AlphaGo Zero, and it managed to rediscover over 3,000 years of human knowledge around the game in just 72 hours. It then beat the version of the original AlphaGo that beat champion Lee Sedol in just over three days, and bested the most powerful previous version of AlphaGo ever in just 40 days after that.
+
+DeepMind’s AlphaGo Zero was an immense achievement not just because of its speed, but because it was able to accomplish all this starting from scratch – researchers didn’t do the first step where it uses human data as a baseline from which to begin the system’s education. Instead, it used spontaneous data to start, literally trying out moves on the board at random and working out which were most effective.
+
+Perhaps the most interesting thing about AlphaGo Zero, though, isn’t how fast it was able to do what it did, or with such efficacy, but also that it ultimately didn’t even achieve its full potential. DeepMind CEO and co-founder Demis Hassabis explained on stage at Google’s Go North conference in Toronto that the company actually shut down the experiment before it could determine the upper limits of AlphaGo Zero’s maximum intelligence.
+
+“We never actually found the limit of how good this version of AlphaGo could get,” he said. “We needed the computers for something else.”
+
+Hassabis said that DeepMind may spin up AlphaGo Zero again in future to find out how much further it can go, though the main benefit of that exercise might be to help teach human AlphaGo players about additional, “alien” moves and stratagems that they can study to improve their own play.
+
+DeepMind’s whole goal is to build artificial general intelligence, however, which can use its smarts to accomplish different tasks – so a smarter AlphaGo Zero might be able to better optimize energy management in Google’s data centers, for instance, or even in the electrical grid in general.
